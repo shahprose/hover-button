@@ -25,6 +25,6 @@ button:hover {
     box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
     transform: translateY(-0.25em);
     cursor: pointer;
-    transition: transform 500ms, box-shadow 500ms;
+    transition: transform 500ms, box-shadow 700ms;
 }
 
